@@ -23,5 +23,7 @@ class Header extends Component {
             </div>
             </HashRouter>
         )
-    }
-}
+    };
+};
+
+export default Header;
