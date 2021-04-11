@@ -18,9 +18,6 @@ function Project(props) {
                 <p id="project-icons-container">
                     <a href={props.github}><img src="https://img.icons8.com/fluent/48/000000/github.png" id="project-icon" alt="Github" /></a>
                 </p>
-                <p id="topics">
-                    ({ props.topics })
-                </p>
             </div>
         </div>
     );
@@ -35,7 +32,7 @@ function Projects () {
             </div>
             <Wrapper id="card-data">
                 {projects.map((project) => (
-                    <Project key={project.id} name={project.name} image={project.image} deploy={project.deploy} github={project.github} topics={project.topics} />
+                    <Project key={project.id} name={project.name} image={project.image} deploy={project.deploy} github={project.github} />
                     ))}
             </Wrapper>
         </section>
