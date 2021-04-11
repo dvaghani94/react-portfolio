@@ -27,3 +27,5 @@ function AboutMe() {
     </nav>
   );
 }
+
+export default AboutMe;
