@@ -1,4 +1,5 @@
 import React from "react";
+import ResumePic from "./images/4F06942C-92FA-474B-A3E1-21706618A6B6.jpeg";
 
 function Resume() {
   return (
@@ -10,9 +11,11 @@ function Resume() {
         <div class="mt-5 pl-5 pr-5">
           <h3>Dhruvi Vaghani</h3>
           <div class="mt-5">
-            <iframe
-              src="https://drive.google.com/file/d/1kWhdt8eeZWOjcAzEYwrCZbLfWHKZAt_S/preview"
-            ></iframe>
+          <img
+            class="mb-5"
+            src={ResumePic}
+            alt="Resume"
+          />
           </div>
         </div>
       </div>

@@ -21,6 +21,7 @@ function Projects () {
                     <Works key={project.id} name={project.name} image={project.image} deploy={project.deploy} github={project.github} />
                     ))}
             </Wrapper>
+
         </section>
     );
 };

@@ -10,7 +10,7 @@ function Works(props) {
             <div className="content">
                 <p className="project-title" id="card-title">{props.name}</p>
                 <p id="project-icons-container">
-                    < a href={props.github}><img src="" alt="Github Repo" id="project-ico" /></a>
+                    < a href={props.github}><img src="" alt="Github Repo" id="project-icon" /></a>
                 </p>
             </div>
         </div>

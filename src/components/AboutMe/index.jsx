@@ -1,4 +1,5 @@
 import React from "react";
+import BioPic from "./images/bio-image.jpg"
 
 function AboutMe() {
   return (
@@ -10,8 +11,8 @@ function AboutMe() {
         <div className="col-10" id="about-section">
           <img
             class="mb-5"
-            id="background"
-            src="./assets/images/bio-image.jpg"
+            id="image"
+            src={BioPic}
             alt="Dhruvi Vaghani"
           />
 

@@ -13,7 +13,7 @@ code {
 }
 
 * {
-  background: red;
+  background-color: rgb(176, 249, 250);
 }
 
 a {
@@ -49,6 +49,11 @@ h3 {
   color: var(--blue-sapphire);
   font-weight: bold;
   text-decoration: none;
+}
+
+#image {
+  max-height: 280px;
+  border-radius: 280px;
 }
 
 .card {
@@ -122,7 +127,7 @@ h3 {
   margin: 2em;
 }
 
-#contact-section {
+#contact-form {
   justify-content: center;
   margin: 20px;
   margin-left: 10em;
