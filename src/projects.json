@@ -1,42 +1,42 @@
 [
     {
         "id": 1,
-        "name": "",
+        "name": "Covid-Relief",
         "image": "",
         "github": "https://github.com/JakeMelville/covid19-relief",
         "deploy": "https://covid-19-relief.herokuapp.com/"
     },
     {
         "id": 2,
-        "name": "",
+        "name": "Google Books",
         "image": "",
         "github": "https://github.com/dvaghani94/google-books",
         "deploy": "https://google-books-dv.herokuapp.com"
     },
     {
         "id": 3,
-        "name": "",
+        "name": "Fitness Tracker",
         "image": "",
         "github": "https://github.com/dvaghani94/fitness-tracker",
         "deploy": "https://fitness-tracker-dv.herokuapp.com/"
     },
     {
         "id": 4,
-        "name": "",
+        "name": "Tech Blog",
         "image": "",
         "github": "https://github.com/dvaghani94/tech-blog",
         "deploy": "https://tech-blog-dv.herokuapp.com"
     },
     {
         "id": 5,
-        "name": "",
+        "name": "Avengers",
         "image": "",
         "github": "https://dvaghani94.github.io/avengers/",
         "deploy": "https://github.com/JakeMelville/avengers"
     },
     {
         "id": 6,
-        "name": "",
+        "name": "Note Taker",
         "image": "",
         "github": "https://github.com/dvaghani94/note-taker",
         "deploy": "https://secret-fjord-87517.herokuapp.com"
