@@ -33,20 +33,21 @@ h3 {
 }
 
 #header {
-  margin: 20px;
+  margin: 40px;
   display: flex;
   justify-content: center;
 }
 
-#navigation {
+#nav {
   font-size: 35px;
   text-decoration: none;
   align-content: center;
-  align-content: center;
+  align-items: flex-end;
 }
 
-#navigation a {
+#nav a {
   color: var(--blue-sapphire);
+  padding-left: 30px;
   font-weight: bold;
   text-decoration: none;
 }
@@ -60,7 +61,7 @@ h3 {
   height: 450px;
   width: 450px;
   position: relative;
-  background-color: blanchedalmond;
+  background-color: rgb(6, 121, 100);
   border-radius: 5px;
   box-shadow: 0 2px 2px var(--cultured), 0 8px 12px var(--cultured);
 }
@@ -68,7 +69,7 @@ h3 {
 .card .content {
   font-size: 20px;
   font-weight: bold;
-  background-color: cornsilk;
+  background-color: rgb(25, 39, 190);
   color: aliceblue;
   text-align: center;
 }
@@ -76,30 +77,32 @@ h3 {
 .card .img-container {
   height: 80%;
   text-align: center;
-  background-color: cornsilk;
+  background-color: rgb(25, 39, 190);
   overflow: hidden;
   border-radius: 13px;
 }
 
 .card .img-container img {
   width: 100%;
-  background-color: cornsilk;
+  background-color: rgb(25, 39, 190);
   padding: 30px;
   margin-bottom: 25px;
 }
 
 .project-title {
   color: var(--cultured);
-  background-color: cornsilk;
+  background-color: rgb(25, 39, 190);
 }
 
 #project-icons-container{
-  background-color: cornsilk;
+  background-color: rgb(25, 39, 190);
+  height: 30px;
 }
 
 #project-icon {
   background-color: var(--white);
-  padding: 5px;
+  padding: 2px;
+  height: 150%;
 }
 
 #card-title {
