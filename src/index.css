@@ -11,3 +11,129 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+* {
+  background: red;
+}
+
+a {
+  background: none;
+}
+
+p {
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+h3 {
+  color:black;
+  padding: 13px;
+  margin: auto 30px;
+}
+
+#header {
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+#navigation {
+  font-size: 35px;
+  text-decoration: none;
+  align-content: center;
+  align-content: center;
+}
+
+#navigation a {
+  color: var(--blue-sapphire);
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.card {
+  height: 450px;
+  width: 450px;
+  position: relative;
+  background-color: blanchedalmond;
+  border-radius: 5px;
+  box-shadow: 0 2px 2px var(--cultured), 0 8px 12px var(--cultured);
+}
+
+.card .content {
+  font-size: 20px;
+  font-weight: bold;
+  background-color: cornsilk;
+  color: aliceblue;
+  text-align: center;
+}
+
+.card .img-container {
+  height: 80%;
+  text-align: center;
+  background-color: cornsilk;
+  overflow: hidden;
+  border-radius: 13px;
+}
+
+.card .img-container img {
+  width: 100%;
+  background-color: cornsilk;
+  padding: 30px;
+  margin-bottom: 25px;
+}
+
+.project-title {
+  color: var(--cultured);
+  background-color: cornsilk;
+}
+
+#project-icons-container{
+  background-color: cornsilk;
+}
+
+#project-icon {
+  background-color: var(--white);
+  padding: 5px;
+}
+
+#card-title {
+  margin-top: 10px;
+  color: var(--eerie-black);
+  
+}
+
+.wrapper {
+  padding-top: 50px;
+  justify-content: space-around;
+  height: 100%;
+  display: flex;
+  overflow: auto;
+  flex-flow: row wrap;
+  padding: 10px;
+  align-content: flex-start;
+}
+
+.icon {
+  padding: 10px;
+}
+
+#about-section {
+  margin: 2em;
+}
+
+#contact-section {
+  justify-content: center;
+  margin: 20px;
+  margin-left: 10em;
+  margin-right: 10em;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  list-style-type: none;
+}
+
