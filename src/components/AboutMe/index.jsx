@@ -10,8 +10,9 @@ function AboutMe() {
         <div className="col-10" id="about-section">
           <img
             class="mb-5"
-            id="bckground"
+            id="background"
             src="./assets/images/bio-image.jpg"
+            alt="Dhruvi Vaghani"
           />
 
           <p>
@@ -25,8 +26,8 @@ function AboutMe() {
         </div>
       </div>
     </nav>
-  );
-}
+  )
+};
 
 export default AboutMe;
 

@@ -1,0 +1,92 @@
+{
+  "main": {
+    "name": "Dhruvi Vaghani",
+    "occupation": "Lab Manager",
+    "description": "Manage employees in lab",
+    "image": "",
+    "bio": "...",
+    "contactmessage": "Please fil out the contact form for more information",
+    "email": "dhruvi.vaghani@gmail.com",
+    "phone": "555-555-5555",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "zip": ""
+    },
+    "social": [
+      {
+        "name": "facebook",
+        "url": "www.facebook.com",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "google",
+        "url": "www.google.com",
+        "className": "fa fa-google"
+      },
+      {
+        "name": "linkedin",
+        "url": "www.linkedin.com",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "www.instagram.com",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "www.github.com",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Rutgers - Coding Bootcamp",
+        "graduated": "April 2021"
+      },
+      {
+        "school": "Rutgers University",
+        "degree": "Masters in HRM & Psychology",
+        "graduated": "May 2016"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Fitness Tracker",
+        "image": "",
+        "url": "https://fitness-tracker-dv.herokuapp.com/"
+      },
+      {
+        "title": "Employee Directory",
+        "image": "",
+        "url": "https://dvaghani94.github.io/employee-directory/"
+      },
+      {
+        "title": "Google-Books",
+        "image": "",
+        "url": "https://google-books-dv.herokuapp.com"
+      },
+      {
+        "title": "Avengers",
+        "image": "",
+        "url": "https://dvaghani94.github.io/avengers/"
+      },
+      {
+        "title": "Covid-Relief",
+        "image": "",
+        "url": "https://covid-19-relief.herokuapp.com/"
+      },
+      {
+        "title": "Tech-Blog",
+        "image": "",
+        "url": "https://tech-blog-dv.herokuapp.com"
+      }
+    ]
+  }
+}
